@@ -9,7 +9,7 @@
 <h3>2. apt upgrade</h3>
 <h3>3. apt install python</h3>
 <h3>4. apt install git</h3>
-<h3>5. git clone </h3>
+<h3>5. git clone https://github.com/hacknicalvikas/zipcracker</h3>
 
 <br><br>
 
@@ -19,7 +19,7 @@
 <h3>2. apt upgrade</h3>
 <h3>3. apt install python3-pip</h3>
 <h3>4. apt install git</h3>
-<h3>5. git clone </h3>
+<h3>5. git clone https://github.com/hacknicalvikas/zipcracker</h3>
 
 <br>
 
@@ -29,5 +29,5 @@
 <br>
 <br>
 <h1>Subscribe us on YouTube.</h1>
-<h2><a href="https://www.youtube.com/c/TruthFulHacker" >Channel Link</a></h2>
+<h2><a href="https://www.youtube.com/channel/UCeqYeDeVkeQPNxE2EjMuSdA" >Channel Link</a></h2>
 # zipcracker
