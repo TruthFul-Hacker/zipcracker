@@ -14,7 +14,7 @@ print(red+'''\n\tWait Some Requirements are Installing''')
 os.system("apt update")
 os.system("apt install python python2 python3 -y")
 os.system("clear")
-print(red+"Modified by:"+yellow+"\n "Truthful Hacker")
+print(red+"Modified by:"+yellow+"\n Truthful Hacker")
 print(red+"Channel Link:"+yellow+"\n https://www.youtube.com/channel/UCSDy3gFrJn8l1UbwMaEyDww")
 
 print(green+"\n\tYou are using ZipCracker Tool.\n")
